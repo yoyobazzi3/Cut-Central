@@ -13,7 +13,7 @@ Clone the project repository to your local machine:
 git clone <repository-url>
 
 
-#### 2. cd into the directory 
+#### **2**. cd into the directory 
 cd backend
 
 ##### 3. set up and activate venv
