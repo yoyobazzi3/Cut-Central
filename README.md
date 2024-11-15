@@ -12,6 +12,7 @@ Clone the project repository to your local machine
 
 
 ### 2. cd into the directory 
+```bash
 cd backend
 
 ### 3. set up and activate venv
