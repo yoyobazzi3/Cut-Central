@@ -18,10 +18,10 @@ cd backend
 python3 -m venv myworld
 source myworld/bin/activate
 
-#### 4. Install Django
+### 4. Install Django
 pip install django
 
-#### 5. cd into cut_central
+### 5. cd into cut_central
 cd cut_central
 
 
