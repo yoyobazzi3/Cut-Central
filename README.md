@@ -8,9 +8,7 @@ Barber website
 ## Installation and Setup
 
 ### 1. Clone the Repository
-Clone the project repository to your local machine:
-```bash
-git clone <repository-url>
+Clone the project repository to your local machine
 
 
 #### **2**. cd into the directory 
