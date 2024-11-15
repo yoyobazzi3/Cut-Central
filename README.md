@@ -25,7 +25,7 @@ pip install django
 cd cut_central
 
 
-#### 6. Run the server
+### 6. Run the server
 python3 manage.py runserver
 
 http://127.0.0.1:8000/
